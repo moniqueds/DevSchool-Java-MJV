@@ -1,27 +1,30 @@
 # DevSchool Java | MJV
 Repositório do Curso Intensivo de Java proposto pela empresa MJV.
 
-### Conteúdo:
-Git, Gitlab e BitBucket.
+## Conteúdo:
+### Git, Gitlab e BitBucket.
+Exercício dia 14/12 links dos repositórios: 
+Clone do colega, com push: https://github.com/Gustavo-lima-rocha-de-sousa/ExercicioEmGrupoMJV 
+Fork, com push: https://github.com/moniqueds/ExercicioEmGrupoMJV-1
 
-Lógica de Programação.
+### Lógica de Programação.
 
-Orientação a Objetos.
+### Orientação a Objetos.
 
-Controle de Fluxo.
+### Controle de Fluxo.
 
-Coleções.
+### Coleções.
 
-Testes.
+### Testes.
 
-Banco de Dados.
+### Banco de Dados.
 
-JDC x JDBC Template.
+### JDC x JDBC Template.
 
-Spring.
+### Spring.
 
-Spring Web.
+### Spring Web.
 
-API Rest.
+### API Rest.
 
-Conceito de Segurança.
+### Conceito de Segurança.
