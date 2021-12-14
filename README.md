@@ -1,4 +1,4 @@
-# **DevSchool Java | MJV - 13/12/2021 à 18/01/2022 **
+# DevSchool Java | MJV - 13/12/2021 à 18/01/2022 
 ## Repositório do Curso Intensivo de Java proposto pela empresa MJV.
 #### Professor: Gleyson Sampaio | Host MJV: Nicole Valencia Del Sole
 
