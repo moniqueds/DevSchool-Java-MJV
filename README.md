@@ -3,8 +3,8 @@ Repositório do Curso Intensivo de Java proposto pela empresa MJV.
 
 ## Conteúdo:
 
-### Git, Gitlab e BitBucket.
-#### > Exercício dia 14/12 links dos repositórios: 
+### 1. Git, Gitlab e BitBucket.
+#### 1.1 > Exercício dia 14/12 links dos repositórios: 
 ##### >> Clone do colega, com push: https://github.com/Gustavo-lima-rocha-de-sousa/ExercicioEmGrupoMJV 
 ##### >> Fork, com push: https://github.com/moniqueds/ExercicioEmGrupoMJV-1
 
