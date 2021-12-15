@@ -10,24 +10,24 @@
 ##### >> Clone do colega, com push: https://github.com/Gustavo-lima-rocha-de-sousa/ExercicioEmGrupoMJV 
 ##### >> Fork, com push: https://github.com/moniqueds/ExercicioEmGrupoMJV-1
 
-### Lógica de Programação.
+### 2. Lógica de Programação.
 
-### Orientação a Objetos.
+### 3. Orientação a Objetos.
 
-### Controle de Fluxo.
+### 4. Controle de Fluxo.
 
-### Coleções.
+### 5. Coleções.
 
-### Testes.
+### 5. Testes.
 
-### Banco de Dados.
+### 6. Banco de Dados.
 
-### JDC x JDBC Template.
+### 7. JDC x JDBC Template.
 
-### Spring.
+### 8. Spring.
 
-### Spring Web.
+### 9. Spring Web.
 
-### API Rest.
+### 10. API Rest.
 
-### Conceito de Segurança.
+### 11. Conceito de Segurança.
