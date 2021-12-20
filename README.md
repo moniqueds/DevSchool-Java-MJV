@@ -11,7 +11,7 @@ Nome da Pasta: Aula Git.
 ##### >> Clone do colega, com push: https://github.com/Gustavo-lima-rocha-de-sousa/ExercicioEmGrupoMJV 
 ##### >> Fork, com push: https://github.com/moniqueds/ExercicioEmGrupoMJV-1
 ##### 1.3 > Exercício 16/12 - Exercício Portugol.
-##### 1.3 > Exercício 17/12 - 
+##### 1.3 > Exercício 17/12 - Exercício com dados cadastrais.
 
 ### 2. Lógica de Programação.
 
