@@ -10,6 +10,8 @@ Nome da Pasta: Aula Git.
 #### 1.2 > Exercício dia 14/12 links dos repositórios: 
 ##### >> Clone do colega, com push: https://github.com/Gustavo-lima-rocha-de-sousa/ExercicioEmGrupoMJV 
 ##### >> Fork, com push: https://github.com/moniqueds/ExercicioEmGrupoMJV-1
+##### 1.3 > Exercício 16/12 - Exercício Portugol.
+##### 1.3 > Exercício 17/12 - 
 
 ### 2. Lógica de Programação.
 
