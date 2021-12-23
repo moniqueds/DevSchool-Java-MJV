@@ -8,15 +8,20 @@ public class BankApplication {
 		//de 2 a 3 contas de integrantes
 		//para realizar uma jornada nas contas
 		
-		Conta contaGleyson = new Conta();
-		Conta contaJose = new Conta();
+		Conta contaMonique = new Conta();
 		
 		ContaService terminal = new ContaService();
-		terminal.depositar(contaGleyson,  50.0);		
-		terminal.depositar(contaJose, 20.0);
+		terminal.depositar(contaMonique,  150.0);		
+		System.out.println("Saldo Atual:" + contaMonique.getSaldo())
 		
-		System.out.println(contaGleyson.getSaldo());
-		System.out.println(contaJose.getSaldo());
+		terminal.sacar(contaMonique, 30.0);
+		terminal.sacar(contaMonique, 60.0);
+		terminal.depositar(contaMonique, 15.0);
+		
+		terminal.exibirExtrato(contaMonique);
+		
+		System.out.println(contaMonique.getSaldo());
+		
 	}
 
 }

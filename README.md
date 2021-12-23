@@ -5,7 +5,7 @@
 ## Conteúdo:
 
 ### 1. Git, Gitlab e BitBucket.
-Nome da Pasta: Aula Git.
+Nome da Pasta: Aula Git. 
 
 ### 2. Lógica de Programação.
 
@@ -37,3 +37,4 @@ Nome da Pasta: Aula Git.
 ##### 3. > Exercício 16/12 - Exercício Portugol.
 ##### 4. > Exercício 17/12 - Exercício com dados cadastrais.
 ##### 5. > Exercício 20/12 - Exercício BankApplication.
+##### 5. > Exercício 21/12 - Exercício Classes e Métodos.
